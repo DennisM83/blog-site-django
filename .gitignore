@@ -1,0 +1,49 @@
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django development settings
+*.env
+*.sqlite3
+
+# Logs
+*.log
+
+# Local development files
+db.sqlite3
+media/
+
+# Static files served by Whitenoise
+staticfiles/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.venv
+pip-selfcheck.json
+
+# IDE-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.whl
+*.pyz
+*.pyw
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.
